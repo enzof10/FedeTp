@@ -1,8 +1,8 @@
 import webbrowser
-from domain.Trainer import Trainer
-from domain.carer import Carer 
-from domain.dolphin import Dolphin
-from domain.seal import Seal
+from models.Trainer import Trainer
+from models.carer import Carer 
+from models.dolphin import Dolphin
+from models.seal import Seal
 
 Trainer_first=Trainer("Discipline","Nocturne",700.00)
 Carer_first= Carer("Cleaning","Diurnal",200.00)
