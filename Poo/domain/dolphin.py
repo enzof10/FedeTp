@@ -1,6 +1,5 @@
 import logging
 from mimetypes import init
-import webbrowser
 from domain.animal import animal
 
 class Dolphin(animal):

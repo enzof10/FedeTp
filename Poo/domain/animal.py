@@ -7,6 +7,8 @@ class animal(ABC):
     
     @abstractmethod
     
+    
+    
     def doTricks(self):
         pass
         
