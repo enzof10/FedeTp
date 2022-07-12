@@ -1,5 +1,3 @@
-from unittest.mock import seal
-import webbrowser
 from models.Trainer import Trainer
 from models.carer import Carer 
 from models.dolphin import Dolphin
